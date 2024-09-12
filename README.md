@@ -1,4 +1,10 @@
-### Hi there 👋
+Hola, Mi nombre es Carlos Vásquez, Developer web full stack
+
+Cuento con una experiencia de mas de 5 años en TI.
+
+Trabaje en proyectos con Laravel, Angular JS y Boostrap,
+Actualmente me desempeño en Backend con NodeJS, Express, Sequelize.
+
 
 <!--
 **carlos1510/carlos1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
