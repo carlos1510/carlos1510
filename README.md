@@ -2,7 +2,7 @@
 
 ### Semi Senior Backend Developer | Java y Node js Specialist | Software Architect Enthusiast
 
-Ingeniero de Sistemas con más de 6 años de experiencia transformando requerimientos complejos en soluciones técnicas escalables. Mi enfoque principal es el desarrollo de sistemas robustos bajo estándares de alta calidad en el sector salud y empresarial.
+Bach. en Ingeniero de Sistemas con más de 6 años de experiencia transformando requerimientos complejos en soluciones técnicas escalables. Mi enfoque principal es el desarrollo de sistemas robustos bajo estándares de alta calidad en el sector salud y empresarial.
 
 ---
 
